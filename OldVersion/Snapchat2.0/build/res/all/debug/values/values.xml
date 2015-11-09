@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="blue" type="color">#3CB2E2</item>
+    <item name="green" type="color">#05A687</item>
+    <item name="white" type="color">#FFFFFF</item>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="camera_capture_image_button_height">96dp</dimen>
+    <dimen name="camera_icon_height">32dp</dimen>
+    <dimen name="camera_icon_margin">16dp</dimen>
+    <dimen name="chat_cam_width">64dp</dimen>
+    <dimen name="inbox_chat_icon_width">64dp</dimen>
+    <dimen name="inbox_item_content_padding">16dp</dimen>
+    <dimen name="inbox_item_indicator_padding">16dp</dimen>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Snapchat 2.0</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

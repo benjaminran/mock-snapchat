@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <com.bran.snapchat20.Preview
+            android:id="@+id/camera_preview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    <ImageView android:id="@+id/camera_flip"
+               android:layout_width="wrap_content"
+               android:layout_height="@dimen/camera_icon_height"
+               android:src="@drawable/ic_flip_cam"
+               android:layout_alignParentRight="true"
+               android:layout_alignParentTop="true"
+               android:layout_margin="@dimen/camera_icon_margin" />
+
+    <ImageView android:id="@+id/camera_toggle_flash"
+               android:layout_width="wrap_content"
+               android:layout_height="@dimen/camera_icon_height"
+               android:src="@drawable/ic_toggle_flash"
+               android:layout_alignParentLeft="true"
+               android:layout_alignParentTop="true"
+               android:layout_margin="@dimen/camera_icon_margin" />
+
+    <ImageView android:id="@+id/camera_capture_image_button"
+               android:layout_width="wrap_content"
+               android:layout_height="@dimen/camera_capture_image_button_height"
+               android:src="@drawable/capture_img_button"
+               android:layout_alignParentBottom="true"
+               android:layout_centerHorizontal="true"
+               android:layout_margin="@dimen/camera_icon_margin" />
+
+    <ImageView android:id="@+id/camera_to_inbox"
+               android:layout_width="wrap_content"
+               android:layout_height="@dimen/camera_icon_height"
+               android:src="@drawable/ic_camera_to_inbox"
+               android:layout_alignParentLeft="true"
+               android:layout_alignParentBottom="true"
+               android:layout_margin="@dimen/camera_icon_margin" />
+
+    <ImageView android:id="@+id/camera_to_friends"
+               android:layout_width="wrap_content"
+               android:layout_height="@dimen/camera_icon_height"
+               android:src="@drawable/ic_camera_to_friends"
+               android:layout_alignParentRight="true"
+               android:layout_alignParentBottom="true"
+               android:layout_margin="@dimen/camera_icon_margin" />
+
+</RelativeLayout>

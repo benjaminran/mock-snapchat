@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chat Fragment"
+            android:textAlignment="center"/>
+
+    <RelativeLayout android:id="@+id/chat_input_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true">
+
+        <EditText android:id="@+id/chat_input_box"
+                  android:layout_height="wrap_content"
+                  android:layout_width="match_parent"
+                  android:layout_alignTop="@+id/chat_cam_btn"
+                  android:layout_alignBottom="@+id/chat_cam_btn"
+                  android:layout_toLeftOf="@+id/chat_cam_btn"
+                  android:hint="Send a chat" />
+
+        <ImageButton android:id="@+id/chat_cam_btn"
+                     android:layout_height="wrap_content"
+                     android:layout_width="wrap_content"
+                     android:src="@drawable/chat_camera"
+                     android:layout_alignParentRight="true"
+                     style="?android:attr/borderlessButtonStyle"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

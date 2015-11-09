@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res" >
+            <file
+                name="capture_img_button"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/capture_img_button.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="chat_camera"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/chat_camera.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_camera_to_friends"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/ic_camera_to_friends.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_camera_to_inbox"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/ic_camera_to_inbox.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_chat"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/ic_chat.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_flip_cam"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/ic_flip_cam.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_toggle_flash"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/ic_toggle_flash.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="snap_chat_opened"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/snap_chat_opened.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="snap_chat_unopened"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/snap_chat_unopened.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="snap_pic_opened"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/snap_pic_opened.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="snap_pic_unopened"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/snap_pic_unopened.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="snap_video_opened"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/snap_video_opened.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="snap_video_unopened"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/drawable-hdpi/snap_video_unopened.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_add_contacts"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/layout/fragment_add_contacts.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_camera"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/layout/fragment_camera.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_chat"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/layout/fragment_chat.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_friends"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/layout/fragment_friends.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_inbox"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/layout/fragment_inbox.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_main_dummy"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/layout/fragment_main_dummy.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="inbox_item"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/layout/inbox_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <item
+                    name="green"
+                    type="color">
+#05A687
+                </item>
+                <item
+                    name="blue"
+                    type="color">
+#3CB2E2
+                </item>
+                <item
+                    name="white"
+                    type="color">
+#FFFFFF
+                </item>
+            </file>
+            <file
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="inbox_item_indicator_padding" >16dp
+                </dimen>
+                <dimen name="camera_icon_margin" >16dp
+                </dimen>
+                <dimen name="inbox_item_content_padding" >16dp
+                </dimen>
+                <dimen name="camera_capture_image_button_height" >96dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="inbox_chat_icon_width" >64dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="chat_cam_width" >64dp
+                </dimen>
+                <dimen name="camera_icon_height" >32dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="title_section1" >Section 1
+                </string>
+                <string name="title_section3" >Section 3
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_section2" >Section 2
+                </string>
+                <string name="app_name" >Snapchat 2.0
+                </string>
+            </file>
+            <file
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/beni/AndroidStudioProjects/Snapchat2.0Project/Snapchat2.0/src/debug/res" />
+    </dataSet>
+
+</merger>
